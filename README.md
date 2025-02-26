@@ -111,7 +111,7 @@ npm install
 **🌎 Contributing**  
 
 💡 **Want to contribute?** Fork the repo, make your changes, and send a pull request!  
-📧 **Questions?** Reach out at **your.email@example.com**  
+📧 **Questions?** Reach out at **medanka.healthcare@gmail.com**  
 
  **📜 License**  
 📄 **Medanka** is licensed under the **MIT License** – see the LICENSE file for details.  
