@@ -1,4 +1,5 @@
  **🩺 Medanka - Your AI-Powered Healthcare Companion!**  
+ 
  Medanka is an AI-powered healthcare platform that integrates prescription text extraction, medical image analysis, hospital management, and patient engagement. Using AI models like decision trees and OCR (Tesseract.js), Medanka provides services such as automatic prescription text extraction, X-ray/MRI/CT scan analysis, symptom checking, and hospital bed availability tracking. It enables seamless interaction between patients, doctors, and hospitals while offering AI-driven medical insights and reminders for medication adherence.
 .It is not just another healthcare platform—it’s your **personal AI doctor, prescription analyst, and medical assistant, all in one place!** 🏥✨ Whether you need to book a doctor, check hospital bed availability, or decode those confusing **X-rays, MRIs, and CT scans**, **Medanka has got you covered!**  
 
