@@ -9,31 +9,13 @@
 💊 **Forgetful about meds?** Set reminders for your doses.  
 🔍 **Not sure about symptoms?** Try our **Symptom Checker!**  
 
- **🚀 How Medanka Works (Workflow)**  
-
-**1️⃣ Patient Registration** 👩‍⚕️👨‍⚕️  
-🔹 User logs in/signs up and selects a hospital.  
-🔹 A **unique Patient ID** is generated.  
-
-**2️⃣ Doctor-Hospital Sync** 🏥  
-🔹 Hospitals register on Medanka, listing their doctors & **real-time bed availability**.  
-🔹 **Doctors can log in**, view patient history, and upload prescriptions/tests.  
-
-**3️⃣ AI-Powered Image & Prescription Analysis** 🧠  
-🔹 Patients upload **prescriptions & medical reports** (X-ray, MRI, CT).  
-🔹 AI (OCR & Image Processing) extracts text, **analyzes reports**, and provides insights.  
-
-**4️⃣ Medicine & Pharmacy Integration** 💊  
-🔹 **AI suggests medicines, dosage, allergies, and alternative options.**  
-🔹 Patients can choose a nearby pharmacy to order their medication.  
-
-**5️⃣ Smart Health Tracking** 📊  
-🔹 **Set medication reminders, check vital health blogs, and get expert tips!**  
-🔹 Medanka continuously updates **hospital bed availability, ensuring real-time updates.**  
-
-**6️⃣ Seamless Doctor-Patient Communication** 📞  
-🔹 Doctors can **upload reports & prescriptions**, which instantly sync to the patient dashboard.  
-🔹 Patients can **book appointments, consult via WebRTC (future update), and get remote care!**  
+ 🚀 How Medanka Works (Workflow)
+1️⃣ Patient Registration & Login – Users sign up and get a unique Patient ID.
+2️⃣ Doctor-Hospital Sync – Hospitals list real-time bed availability; doctors manage patient history & prescriptions.
+3️⃣ AI-Powered Analysis – Upload prescriptions & medical reports (X-ray, MRI, CT scans); AI extracts text and provides insights.
+4️⃣ Medicine & Pharmacy Integration – AI suggests medicines; users order from nearby pharmacies.
+5️⃣ Smart Health Tracking – Set medication reminders, track vitals, and get expert health tips.
+6️⃣ Doctor-Patient Communication – Book appointments, receive reports, and consult remotely (future update). 
 
  **🛠️ Getting Started (Setup Guide)**  
 
